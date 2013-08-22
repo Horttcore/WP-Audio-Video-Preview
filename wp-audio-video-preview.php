@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Audio Preview
+Plugin Name: WP Audio Video Preview
 Plugin URI: http://horttcore.de
 Description: Display an additional column in media library overview
 Version: 1.0

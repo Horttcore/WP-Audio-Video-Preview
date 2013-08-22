@@ -2,9 +2,9 @@
 Contributors: Horttcore
 Donate link: http://www.horttcore.de
 Tags: audio, video, preview, admin
-Requires at least: 3.3
-Tested up to: 3.6
-Stable tag: 2.0.2
+Requires at least: 3.6
+Tested up to: 3.7
+Stable tag: 1.0
 
 Redirect a page to an URL
 

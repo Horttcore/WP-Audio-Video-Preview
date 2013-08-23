@@ -19,7 +19,7 @@ Display an additional column in media library overview
 
 == Screenshots ==
 
-1. Screenshot of the Meta box in the content
+1. Additional column in media overview
 
 == Frequently Asked Questions ==
 

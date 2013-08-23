@@ -19,7 +19,7 @@ Display an additional column in media library overview
 
 * Please report bugs and wishes at github ( https://github.com/Horttcore/WP-Audio-Video-Preview/issues )
 
-### Changelog
+## Changelog
 
 1.0
 *   First release

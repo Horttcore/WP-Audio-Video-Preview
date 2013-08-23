@@ -11,7 +11,7 @@ Display an additional column in media library overview
 
 ## Screenshots
 
-![Screenshot of the Meta box in the content](https://github.com/Horttcore/WP-Audio-Video-Preview/raw/master/sreenshot-1.png)
+![Screenshot of the Meta box in the content](https://raw.github.com/Horttcore/WP-Audio-Video-Preview/master/screenshot-1.png)
 
 ## Frequently Asked Questions
 

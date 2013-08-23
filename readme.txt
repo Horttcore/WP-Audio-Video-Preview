@@ -6,7 +6,7 @@ Requires at least: 3.6
 Tested up to: 3.7
 Stable tag: 1.0
 
-Redirect a page to an URL
+Display an additional column in media library overview
 
 == Description ==
 
